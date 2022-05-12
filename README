@@ -79,11 +79,10 @@ one, create a file:
 	**Note: You will need to re-copy and paste these credentials onto both EC2's whenever 
 	they change (after your session ends).
 
---Java/Maven/Git Installation
+--Java/Git Installation
 If you do not have an up-to-date version of Java or Maven installed on your local machine, run the following commands locally:
 	$sudo yum install openjdk-11-jre-headless
 	$sudo yum install openjdk-11-jdk-headless
-	$sudo /usr/bin/dnf install maven
 	$sudo /usr/bin/dnf install git
 
 --Running the application
